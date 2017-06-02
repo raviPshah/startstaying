@@ -1,0 +1,7 @@
+Installing wamp
+
+	1. Download wamp from wampserver.com
+	2. Install the wamp server
+	3. Check if the wamp symbol turns green.
+	4. If not change port to 8080 or any other by going to apache httpd.conf and close skype as it uses port 80.
+	5. If these doesn't work check 
